@@ -1,0 +1,17 @@
+https://tinkerlog.com/howto/synchronizing-firefly-how-to/
+https://github.com/tinkerlog/fireflies
+http://www.instructables.com/id/Synchronizing-Fireflies/
+
+
+Atmel ATtiny13V-10PU, Digikey ATTINY13V-10PU-ND
+8 pin socket, Digikey A24807-ND
+Capacitor 100u, 6V, electrolyt, Digikey P904-ND
+Capacitor 100n, Digikey 399-4151-ND
+RGB LED, common cathode, ~4000mcd, Lucky Light, LL-509RGBC2E-006
+Phototransistor, OSRAM SFH3310
+3 * 1/4 Watt 100 Ohm (brown, black, black, black, brown) (or brown, black, brown, gold for 4 band resistor)
+2 * 1/4 Watt 100k Ohm (brown, black, black, orange, brown) (or brown, black, yellow, gold for 4 band resistor)
+6 pin header, 2×3
+2 pin header and socket
+Firefly PCB
+Ping pong ball
