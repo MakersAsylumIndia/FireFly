@@ -41,7 +41,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 65315044-ab44-4ea1-a9f3-3bbaafc1b571))
   (fp_circle (center 1.27 0) (end 3.77 0)
     (stroke (width 0.1) (type solid)) (fill none) (layer "F.Fab") (tstamp a6cb4b0f-d224-4ce0-98b1-dcd437409fbc))
-  (pad "1" thru_hole rect (at 0 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 6f57a033-1deb-437a-a3db-4238ba4b6e55))
+  (pad "1" thru_hole roundrect (at 0 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25) (tstamp 6f57a033-1deb-437a-a3db-4238ba4b6e55))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 840fef83-19cb-48b9-9dea-7b0d394abb9f))
   (model "${KIPRJMOD}/3d_models/LED_D5.0mm.step"
     (offset (xyz 0 0 0))
